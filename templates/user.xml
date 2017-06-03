@@ -1,0 +1,15 @@
+<templateSet group="user">
+  <template name="debugMethod" value="/* ----------&#10; * DEBUG LINE&#10; * ---------- */&#10;$debug = array(&#10;    &quot;View&quot;   =&gt; __FUNCTION__,&#10;    &quot;arg&quot;    =&gt; func_get_args(),&#10;    &quot;return&quot; =&gt; $RETURN$&#10;);&#10;dump($debug);&#10;/* -----------&#10; * /DEBUG LINE&#10; * ----------- */" description="Use to debug a method with Component Dumper" toReformat="true" toShortenFQNames="true">
+    <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="commentSeparator" value="// --------------------------------------------------------------------------&#10;// --------------------------------------------------------------------------" description="Add a full line of dash to separate code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

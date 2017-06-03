@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="debug" value="console.log(&quot;$SELECTION$ $text$ $END$&quot;);" description="Ajoute un console log de débug" toReformat="false" toShortenFQNames="true">
+    <variable name="text" expression="" defaultValue="SUPRISE MOTHERFUCKER §§§§" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
