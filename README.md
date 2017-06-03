@@ -1,2 +1,0 @@
-# phpStormSettings
-My phpstorm settings
