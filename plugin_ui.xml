@@ -1,9 +1,3 @@
 <application>
-  <component name="PluginManagerConfigurable">
-    <available-proportions>
-      <option name="proportions">
-        <list />
-      </option>
-    </available-proportions>
-  </component>
+  <component name="PluginManagerConfigurable" installedProportions="0.46864685" />
 </application>
