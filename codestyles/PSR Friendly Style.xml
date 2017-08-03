@@ -8,7 +8,9 @@
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="CONCAT_SPACES" value="false" />
     <option name="COMMA_AFTER_LAST_ARRAY_ELEMENT" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
@@ -48,6 +50,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
+    <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
@@ -60,7 +63,6 @@
     <option name="CALL_PARAMETERS_WRAP" value="5" />
     <option name="CALL_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="CALL_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
-    <option name="METHOD_PARAMETERS_WRAP" value="5" />
     <option name="METHOD_PARAMETERS_LPAREN_ON_NEXT_LINE" value="true" />
     <option name="METHOD_PARAMETERS_RPAREN_ON_NEXT_LINE" value="true" />
     <option name="EXTENDS_LIST_WRAP" value="1" />
