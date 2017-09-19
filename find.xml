@@ -3,26 +3,13 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.two</mask>
-      <mask>/</mask>
-      <mask>.</mask>
       <mask>.t</mask>
       <mask>.twi</mask>
       <mask>.twig</mask>
       <mask>*.x</mask>
       <mask>*.xlif</mask>
       <mask>*.xliff</mask>
-      <mask>*</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
@@ -31,10 +18,22 @@
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>.</mask>
+      <mask>.h</mask>
+      <mask>.html</mask>
+      <mask>.html.</mask>
+      <mask>.html.t</mask>
+      <mask>.html.twig</mask>
+      <mask>.html.twi</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
