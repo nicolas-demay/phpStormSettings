@@ -2,10 +2,9 @@
   <option name="FONT_SCALE" value="1.25" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="13" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -13452,8 +13451,9 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
+        <option name="EFFECT_COLOR" value="5a2d08" />
         <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
