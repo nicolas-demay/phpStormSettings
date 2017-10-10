@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <recentFileMasks>
-      <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
@@ -17,11 +16,7 @@
       <mask>.html.t</mask>
       <mask>.html.twig</mask>
       <mask>.html.twi</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
       <mask>*.html.t</mask>
-      <mask>*.html.twig</mask>
       <mask>*ù</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
@@ -34,9 +29,14 @@
       <mask>*.x</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
