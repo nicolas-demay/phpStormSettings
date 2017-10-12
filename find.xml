@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
@@ -24,11 +25,9 @@
       <mask>.p</mask>
       <mask>.php</mask>
       <mask>.ph</mask>
-      <mask>*</mask>
       <mask>*.x</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
@@ -36,6 +35,8 @@
       <mask>*.html</mask>
       <mask>*.html.</mask>
       <mask>*.html.twig</mask>
+      <mask>*</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
