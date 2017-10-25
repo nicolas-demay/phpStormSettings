@@ -3,21 +3,17 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.v</mask>
-      <mask>.p</mask>
       <mask>.ph</mask>
       <mask>*.x</mask>
       <mask>*.xsd</mask>
       <mask>*.xs</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
       <mask>*.html.twig</mask>
-      <mask>*</mask>
       <mask>*.ph</mask>
       <mask>repo</mask>
       <mask>rep</mask>
@@ -35,6 +31,10 @@
       <mask>.*php</mask>
       <mask>.php</mask>
       <mask>*.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
