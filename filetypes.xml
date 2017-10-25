@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="xliff" type="XML" />
       <mapping ext="xlt" type="XML" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
