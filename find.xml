@@ -3,12 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.vue" />
     <recentFileMasks>
-      <mask>.ph</mask>
-      <mask>*.x</mask>
-      <mask>*.xsd</mask>
-      <mask>*.xs</mask>
-      <mask>*.p</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
@@ -34,6 +30,11 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>v</mask>
+      <mask>vu</mask>
+      <mask>vue</mask>
+      <mask>*vue</mask>
+      <mask>*.vue</mask>
     </recentFileMasks>
   </component>
 </application>
