@@ -5,8 +5,6 @@
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <option name="FILE_MASK" value="*.vue" />
     <recentFileMasks>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
       <mask>*.html.</mask>
       <mask>*.html.twig</mask>
       <mask>*.ph</mask>
@@ -27,13 +25,15 @@
       <mask>.php</mask>
       <mask>*.php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>v</mask>
       <mask>vu</mask>
       <mask>vue</mask>
       <mask>*vue</mask>
+      <mask>*.v</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.vu</mask>
       <mask>*.vue</mask>
     </recentFileMasks>
   </component>
