@@ -3,15 +3,8 @@
     <option name="customScope" value="Project and Libraries" />
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <recentFileMasks>
-      <mask>*.html.twig</mask>
-      <mask>*.ph</mask>
-      <mask>repo</mask>
-      <mask>rep</mask>
-      <mask>R</mask>
-      <mask>Re</mask>
-      <mask>Repo</mask>
-      <mask>Repos</mask>
       <mask>Reposito</mask>
       <mask>Repository</mask>
       <mask>Repository.</mask>
@@ -28,12 +21,20 @@
       <mask>*vue</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
       <mask>*.v</mask>
       <mask>*.vu</mask>
       <mask>*.vue</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.w</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.twi</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
