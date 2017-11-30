@@ -1,0 +1,23 @@
+<application>
+  <component name="ScratchConfig">
+    <option name="defaultScratchMeaning" value="TOPMOST" />
+    <option name="fullScratchNamesOrdered">
+      <list>
+        <option value="test.php" />
+        <option value="scratch.php" />
+        <option value="scratch_1.php" />
+        <option value="scratch_2.php" />
+        <option value="scratch_3.php" />
+        <option value="scratch_4.php" />
+        <option value="scratch_5.php" />
+        <option value="scratch_6.php" />
+        <option value="scratch_7.php" />
+        <option value="scratch_8.php" />
+        <option value="scratch_9.php" />
+        <option value="scratch_10.php" />
+        <option value="scratch_11.php" />
+      </list>
+    </option>
+    <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
+  </component>
+</application>
