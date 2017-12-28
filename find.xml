@@ -1,0 +1,39 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <recentFileMasks>
+      <mask>*Repository.php</mask>
+      <mask>.</mask>
+      <mask>.*php</mask>
+      <mask>.php</mask>
+      <mask>v</mask>
+      <mask>vu</mask>
+      <mask>vue</mask>
+      <mask>*vue</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.vu</mask>
+      <mask>*.html.w</mask>
+      <mask>*.v</mask>
+      <mask>*.vue</mask>
+      <mask>*.html.tiw</mask>
+      <mask>*.html.ti</mask>
+      <mask>*</mask>
+      <mask>*.htmo</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.tw</mask>
+      <mask>*.html.twi</mask>
+      <mask>*.html.twig</mask>
+    </recentFileMasks>
+  </component>
+</application>
