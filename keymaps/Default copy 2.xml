@@ -15,4 +15,5 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
+  <action id="EditorDeleteToWordEnd" />
 </keymap>
