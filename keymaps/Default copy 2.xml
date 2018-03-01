@@ -20,5 +20,8 @@
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="PhpListenDebugAction">
+    <keyboard-shortcut first-keystroke="ctrl f9" />
+  </action>
   <action id="Replace" />
 </keymap>
