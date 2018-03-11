@@ -16,9 +16,28 @@
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorDeleteToWordEnd" />
+  <action id="ExpandAll">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Graph.ZoomIn">
+    <keyboard-shortcut first-keystroke="alt equals" />
+  </action>
+  <action id="Graph.ZoomOut">
+    <keyboard-shortcut first-keystroke="ctrl right_parenthesis" />
+  </action>
+  <action id="Images.Editor.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
   <action id="PhpListenDebugAction">
     <keyboard-shortcut first-keystroke="ctrl f9" />
@@ -26,5 +45,8 @@
   <action id="Replace" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt left_parenthesis" />
+  </action>
+  <action id="UML.ZoomIn">
+    <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
 </keymap>
