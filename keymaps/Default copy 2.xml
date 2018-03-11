@@ -24,4 +24,7 @@
     <keyboard-shortcut first-keystroke="ctrl f9" />
   </action>
   <action id="Replace" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt left_parenthesis" />
+  </action>
 </keymap>
