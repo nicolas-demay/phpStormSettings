@@ -1420,17 +1420,17 @@
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="f36e3a" />
+        <option name="FOREGROUND" value="a4ebf3" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="f36e3a" />
+        <option name="FOREGROUND" value="2ad0f3" />
       </value>
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="f36e3a" />
+        <option name="FOREGROUND" value="a4ebf3" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
