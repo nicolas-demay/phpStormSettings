@@ -13,9 +13,9 @@
     <mask>*.twig</mask>
     <mask>*.css</mask>
     <mask>*Controller.php</mask>
-    <mask>*.html.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
