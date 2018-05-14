@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.1.7.4" />
+    <option name="version" value="2.2.3" />
     <option name="selectedTheme" value="ARC_DARK" />
     <option name="isContrastMode" value="true" />
     <option name="accentColor" value="FFD700" />
