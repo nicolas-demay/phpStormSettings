@@ -6,7 +6,6 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="444444" />
     <option name="ANNOTATIONS_COLOR" value="8b999f" />
@@ -1341,7 +1340,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="8c8c00" />
+        <option name="EFFECT_COLOR" value="afb03a" />
+        <option name="ERROR_STRIPE_COLOR" value="8c8246" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
