@@ -14,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*Controller.php</mask>
     <mask>*.js</mask>
-    <mask>*.yml</mask>
     <mask>*.html.twig</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
