@@ -16,7 +16,7 @@
     <mask>*.yml</mask>
     <mask>*.twig</mask>
     <mask>*.rake</mask>
-    <mask>*.php</mask>
     <mask>*.html.twig</mask>
+    <mask>*.php</mask>
   </component>
 </application>
