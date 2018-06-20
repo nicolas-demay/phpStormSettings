@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,11 +16,11 @@
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.rake</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.html.twig</mask>
     <mask>*.css</mask>
     <mask>*.rb</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
