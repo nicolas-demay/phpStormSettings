@@ -18,7 +18,7 @@
     <mask>*.css</mask>
     <mask>*.rb</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*Type.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
