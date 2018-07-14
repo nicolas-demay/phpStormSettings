@@ -2,10 +2,17 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.2-2018.1" />
     <option name="selectedTheme" value="ARC_DARK" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="FFD700" />
+    <option name="accentColor" value="ffd700" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="1" />
+    <option name="fileStatusColorsEnabled" value="true" />
     <option name="userId" value="cce379e:16421434e87:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
