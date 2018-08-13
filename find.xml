@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -18,11 +19,11 @@
     <mask>*.rake</mask>
     <mask>*.xml</mask>
     <mask>*.rb</mask>
-    <mask>*.yml</mask>
     <mask>*Type.php</mask>
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*.html.twig</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
