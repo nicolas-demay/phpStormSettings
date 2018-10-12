@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="Project and Libraries" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,9 +22,9 @@
     <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*Repository.php</mask>
-    <mask>*.html.twig</mask>
     <mask>*enum.php</mask>
     <mask>*.Observer.php</mask>
     <mask>*.php</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
