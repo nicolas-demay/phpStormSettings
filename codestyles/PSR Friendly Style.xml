@@ -1,6 +1,7 @@
 <code_scheme name="PSR Friendly Style" version="173">
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
