@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="supprWarning" value="@SuppressWarnings(PHPMD)" description="Create annotation to skip php md verification" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Comment" value="true" />
+    </context>
+  </template>
+</templateSet>

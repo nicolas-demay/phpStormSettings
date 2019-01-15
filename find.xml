@@ -1,41 +1,30 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
-    <recentFileMasks>
-      <mask>*Repository.php</mask>
-      <mask>.</mask>
-      <mask>.*php</mask>
-      <mask>.php</mask>
-      <mask>v</mask>
-      <mask>vu</mask>
-      <mask>vue</mask>
-      <mask>*vue</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.p</mask>
-      <mask>*.php</mask>
-      <mask>*.vu</mask>
-      <mask>*.html.w</mask>
-      <mask>*.v</mask>
-      <mask>*.vue</mask>
-      <mask>*.html.tiw</mask>
-      <mask>*.html.ti</mask>
-      <mask>*</mask>
-      <mask>*.htmo</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.</mask>
-      <mask>*.h</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
-      <mask>*.html.t</mask>
-      <mask>*.html.tw</mask>
-      <mask>*.html.twi</mask>
-      <mask>*.html.twig</mask>
-    </recentFileMasks>
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.mxml</mask>
+    <mask>*Controller.php</mask>
+    <mask>*.twig</mask>
+    <mask>*.rake</mask>
+    <mask>*.xml</mask>
+    <mask>*.rb</mask>
+    <mask>*Type.php</mask>
+    <mask>*.css</mask>
+    <mask>*.js</mask>
+    <mask>*.yml</mask>
+    <mask>*Repository.php</mask>
+    <mask>*enum.php</mask>
+    <mask>*.Observer.php</mask>
+    <mask>*.html.twig</mask>
+    <mask>*.php</mask>
+    <mask>Entity\*.php</mask>
   </component>
 </application>
