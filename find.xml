@@ -22,7 +22,7 @@
     <mask>*.Observer.php</mask>
     <mask>Entity\*.php</mask>
     <mask>*.html.twig</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
