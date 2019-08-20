@@ -454,13 +454,14 @@
     </option>
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
-        <option name="FOREGROUND" value="2bedff" />
+        <option name="FOREGROUND" value="5fb9ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="8990ff" />
+        <option name="FOREGROUND" value="98fea" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -476,7 +477,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="74b7ea" />
+        <option name="FOREGROUND" value="8598ea" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -507,7 +508,8 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ffb523" />
+        <option name="FOREGROUND" value="ff8713" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -1091,7 +1093,7 @@
     </option>
     <option name="PHP_CLASS">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="ff8c49" />
       </value>
     </option>
     <option name="PHP_EXEC_COMMAND_ID">
