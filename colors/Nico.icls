@@ -394,7 +394,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="326d2b" />
+        <option name="FOREGROUND" value="57c34c" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -482,7 +482,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="326d2b" />
+        <option name="FOREGROUND" value="57c34c" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
@@ -1301,7 +1301,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="f6f4ff" />
         <option name="BACKGROUND" value="d0d0d" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -1447,23 +1447,23 @@
     </option>
     <option name="YAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="505c63" />
+        <option name="FOREGROUND" value="4db243" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="a4ebf3" />
+        <option name="FOREGROUND" value="dfff60" />
       </value>
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="2ad0f3" />
+        <option name="FOREGROUND" value="b3b8ff" />
       </value>
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="a4ebf3" />
+        <option name="FOREGROUND" value="dfff60" />
       </value>
     </option>
     <option name="YAML_SCALAR_VALUE">
