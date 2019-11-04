@@ -23,7 +23,8 @@
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
-    <mask>*.html.twig</mask>
     <mask>*.php</mask>
+    <mask>*.html.twig</mask>
+    <mask>*repository.php</mask>
   </component>
 </application>
