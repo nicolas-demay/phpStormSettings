@@ -26,5 +26,6 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.html.twig</mask>
+    <mask>*type.php</mask>
   </component>
 </application>
