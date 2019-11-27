@@ -22,10 +22,10 @@
     <mask>Entity\*.php</mask>
     <mask>*.scss</mask>
     <mask>*repository.php</mask>
-    <mask>*.js</mask>
     <mask>*type.php</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
