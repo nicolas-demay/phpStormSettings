@@ -8,5 +8,15 @@
       </blacklist>
       <blacklist language="YAML" />
     </blacklists>
+    <disabledLanguages>
+      <language id="TypeScript" />
+      <language id="Angular2Html" />
+      <language id="XML" />
+      <language id="JavaScript" />
+      <language id="Vue" />
+      <language id="PHP" />
+      <language id="SQL" />
+      <language id="yaml" />
+    </disabledLanguages>
   </component>
 </application>
