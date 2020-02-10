@@ -23,9 +23,9 @@
     <mask>*repository.php</mask>
     <mask>*type.php</mask>
     <mask>*.css</mask>
-    <mask>*.html.twig</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
