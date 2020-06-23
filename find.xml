@@ -25,9 +25,9 @@
     <mask>*.css</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.html.twig</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
