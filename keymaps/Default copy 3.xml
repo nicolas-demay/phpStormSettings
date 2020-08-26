@@ -11,10 +11,6 @@
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="alt ampersand" />
   </action>
-  <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="ctrl f4" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl slash" />
     <keyboard-shortcut first-keystroke="ctrl divide" />
@@ -30,7 +26,6 @@
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorDeleteToWordEnd" />
-  <action id="EditorSelectWord" />
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
