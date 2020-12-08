@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="PHP External Quality Tools" shouldLog="false" />
+    <notification groupId="SSH Connections" shouldLog="false" />
   </component>
 </application>
