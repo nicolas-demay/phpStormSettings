@@ -21,7 +21,6 @@
     <mask>Entity\*.php</mask>
     <mask>*.scss</mask>
     <mask>*repository.php</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
     <mask>*type.php</mask>
     <mask>*.css</mask>
@@ -30,5 +29,6 @@
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.yaml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
