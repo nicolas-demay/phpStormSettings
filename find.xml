@@ -19,7 +19,6 @@
     <mask>*enum.php</mask>
     <mask>*.Observer.php</mask>
     <mask>Entity\*.php</mask>
-    <mask>*.scss</mask>
     <mask>*repository.php</mask>
     <mask>*.js</mask>
     <mask>*type.php</mask>
@@ -30,5 +29,6 @@
     <mask>*.html.twig</mask>
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
