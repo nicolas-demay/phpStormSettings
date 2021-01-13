@@ -28,7 +28,7 @@
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.html.twig</mask>
-    <mask>*.yaml</mask>
     <mask>*.vue</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
