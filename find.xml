@@ -22,7 +22,6 @@
     <mask>*repository.php</mask>
     <mask>*.js</mask>
     <mask>*type.php</mask>
-    <mask>*.css</mask>
     <mask>.js</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
@@ -30,5 +29,6 @@
     <mask>*.html.twig</mask>
     <mask>*.vue</mask>
     <mask>*.yaml</mask>
+    <mask>*.css</mask>
   </component>
 </application>
