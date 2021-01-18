@@ -25,10 +25,10 @@
     <mask>.js</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
-    <mask>*.scss</mask>
     <mask>*.html.twig</mask>
     <mask>*.vue</mask>
     <mask>*.yaml</mask>
     <mask>*.css</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
