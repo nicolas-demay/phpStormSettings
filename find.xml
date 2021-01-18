@@ -20,7 +20,6 @@
     <mask>*.Observer.php</mask>
     <mask>Entity\*.php</mask>
     <mask>*repository.php</mask>
-    <mask>*.js</mask>
     <mask>*type.php</mask>
     <mask>.js</mask>
     <mask>*.php</mask>
@@ -30,5 +29,6 @@
     <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
