@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2021-04-19T15:46:36</property>
+    <property name="modified">2021-04-19T16:09:18</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
@@ -146,6 +146,9 @@
       <value>
         <option name="FOREGROUND" value="1a1f29" />
       </value>
+    </option>
+    <option name="CODE_LENS_BORDER_COLOR">
+      <value />
     </option>
     <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
       <value>
