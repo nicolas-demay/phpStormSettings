@@ -32,7 +32,7 @@
     <mask>*.md</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
-    <mask>*.vue</mask>
     <mask>*.html.twig</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
