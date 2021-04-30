@@ -29,8 +29,8 @@
     <mask>*.md</mask>
     <mask>*.php</mask>
     <mask>*.vue</mask>
-    <mask>*.html.twig</mask>
     <mask>*.yaml</mask>
     <mask>*.scss</mask>
+    <mask>*.html.twig</mask>
   </component>
 </application>
