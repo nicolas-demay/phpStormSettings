@@ -22,7 +22,6 @@
     <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*controller.php</mask>
-    <mask>*.yml</mask>
     <mask>*type.php</mask>
     <mask>*.md</mask>
     <mask>*.vue</mask>
@@ -32,5 +31,6 @@
     <mask>*Type.php</mask>
     <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
