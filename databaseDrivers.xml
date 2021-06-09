@@ -26,11 +26,13 @@
     <driver id="mysql.8">
       <artifact />
       <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.21" />
-      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
     </driver>
     <driver id="mysql">
       <url-template name="new" template="jdbc:mysql://anaxago-cluster.cluster-cthtl8rnnnmx.eu-west-1.rds.amazonaws.com :3306/anaxago" />
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.47" />
+    </driver>
+    <driver id="mysql_aurora">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
     </driver>
     <driver id="oracle">
       <artifact id="Oracle" name="Oracle" use="true">
