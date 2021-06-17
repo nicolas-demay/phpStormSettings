@@ -30,7 +30,7 @@
     <mask>*.html.twig</mask>
     <mask>*Type.php</mask>
     <mask>*.twig</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
