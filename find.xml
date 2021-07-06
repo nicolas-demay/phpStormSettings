@@ -32,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.vue</mask>
     <mask>*.yaml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
