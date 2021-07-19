@@ -28,10 +28,10 @@
     <mask>*.html.twig</mask>
     <mask>*Type.php</mask>
     <mask>*.twig</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
     <mask>*.json</mask>
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
