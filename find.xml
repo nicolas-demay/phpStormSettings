@@ -29,9 +29,9 @@
     <mask>*.twig</mask>
     <mask>*.vue</mask>
     <mask>*.json</mask>
-    <mask>*.php</mask>
     <mask>*.yaml</mask>
     <mask>Version*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
