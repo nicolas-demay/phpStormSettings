@@ -31,7 +31,7 @@
     <mask>*.json</mask>
     <mask>*.yaml</mask>
     <mask>Version*.php</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
