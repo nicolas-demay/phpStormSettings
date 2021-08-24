@@ -6,6 +6,7 @@
     <option name="contrastMode" value="true" />
     <option name="highContrast" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -24,6 +25,6 @@
     <option name="highlightColor" value="ff6452" />
     <option name="selectedTheme" value="GITHUB_DARK" />
     <option name="userId" value="cce379e:16421434e87:-7fff" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.7.2" />
   </component>
 </application>
