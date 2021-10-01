@@ -19,7 +19,6 @@
     <mask>*repository.php</mask>
     <mask>.js</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*controller.php</mask>
     <mask>*type.php</mask>
     <mask>*.md</mask>
@@ -33,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
+    <mask>*.js</mask>
   </component>
 </application>
