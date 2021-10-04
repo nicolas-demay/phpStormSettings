@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="toolbox" id="3f9320b6-25a6-4560-95ef-a6f2b110397b" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+      <sshConfig host="52.50.245.207" id="1394dd3b-8413-4d8f-b111-9b6d0176c7f7" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</application>
