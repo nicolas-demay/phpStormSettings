@@ -3,35 +3,35 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*Controller.php</mask>
-    <mask>*.rake</mask>
-    <mask>*.xml</mask>
-    <mask>*.rb</mask>
     <mask>*Repository.php</mask>
     <mask>*enum.php</mask>
     <mask>*.Observer.php</mask>
     <mask>Entity\*.php</mask>
     <mask>*repository.php</mask>
     <mask>.js</mask>
-    <mask>*.css</mask>
     <mask>*controller.php</mask>
     <mask>*type.php</mask>
     <mask>*.md</mask>
-    <mask>*.scss</mask>
     <mask>*Type.php</mask>
-    <mask>*.vue</mask>
     <mask>*.json</mask>
     <mask>Version*.php</mask>
-    <mask>*.twig</mask>
-    <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.vue</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.yaml</mask>
+    <mask>*.twig</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
-    <mask>*.js</mask>
   </component>
 </application>

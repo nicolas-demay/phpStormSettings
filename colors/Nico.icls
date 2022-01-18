@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2021-09-21T18:33:33</property>
+    <property name="modified">2021-12-10T12:32:51</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
@@ -20,7 +20,7 @@
     <option name="BORDER_LINES_COLOR" value="" />
     <option name="CARET_COLOR" value="ffcc00" />
     <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="212121" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DOCUMENTATION_COLOR" value="" />
     <option name="FILESTATUS_ADDED" value="80cbc4" />
@@ -220,7 +220,7 @@
     </option>
     <option name="CONSOLE_MAGENTA_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff70ff" />
+        <option name="FOREGROUND" value="fc8585" />
       </value>
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
@@ -240,12 +240,12 @@
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff8785" />
+        <option name="FOREGROUND" value="fc8585" />
       </value>
     </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff6b68" />
+        <option name="FOREGROUND" value="d20e0e" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -619,6 +619,11 @@
         <option name="EFFECT_COLOR" value="ec2f2c" />
         <option name="ERROR_STRIPE_COLOR" value="c20009" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="5e5959" />
       </value>
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
