@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.vue" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*Repository.php</mask>
     <mask>*enum.php</mask>
     <mask>*.Observer.php</mask>
@@ -31,8 +31,8 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.inc</mask>
-    <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
