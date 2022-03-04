@@ -2,9 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*Repository.php</mask>
     <mask>*enum.php</mask>
     <mask>*.Observer.php</mask>
@@ -31,9 +30,9 @@
     <mask>*.inc</mask>
     <mask>*.html.twig</mask>
     <mask>*.vue</mask>
-    <mask>*.php</mask>
     <mask>*.yaml</mask>
     <mask>*.scss</mask>
     <mask>*.twig</mask>
+    <mask>*.php</mask>
   </component>
 </application>
