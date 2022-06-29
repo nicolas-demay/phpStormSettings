@@ -26,6 +26,10 @@
     <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorDeleteToWordEnd" />
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt u" />
+  </action>
   <action id="EslintImportCodeStyle">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
@@ -37,6 +41,7 @@
     <keyboard-shortcut first-keystroke="shift f3" />
   </action>
   <action id="Replace" />
+  <action id="ShowUmlDiagram" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt left_parenthesis" />
   </action>
