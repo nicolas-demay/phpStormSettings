@@ -4,4 +4,9 @@
       <option name="PHP Comment" value="true" />
     </context>
   </template>
+  <template name="pr" value="private readonly " description="Private readonly" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
