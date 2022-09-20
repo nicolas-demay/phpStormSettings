@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*repository.php</mask>
     <mask>.js</mask>
     <mask>*controller.php</mask>
@@ -25,7 +26,6 @@
     <mask>*.vue</mask>
     <mask>*.twig</mask>
     <mask>*.md</mask>
-    <mask>*.yaml</mask>
     <mask>*.html.twig</mask>
     <mask>*.php</mask>
     <mask>*Notification.php</mask>
@@ -33,5 +33,6 @@
     <mask>*twig</mask>
     <mask>*php</mask>
     <mask>*.yml</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
