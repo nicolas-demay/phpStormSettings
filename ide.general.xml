@@ -12,6 +12,8 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="Memory" value="true" />
+        <entry key="com.github.copilot" value="false" />
         <entry key="mtProjectFactory" value="false" />
       </map>
     </option>
