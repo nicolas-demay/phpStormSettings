@@ -3,8 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml" />
-    <mask>*repository.php</mask>
+    <option name="FILE_MASK" value="*type.yaml" />
     <mask>.js</mask>
     <mask>*controller.php</mask>
     <mask>*type.php</mask>
@@ -34,5 +33,6 @@
     <mask>*php</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*type.yaml</mask>
   </component>
 </application>
