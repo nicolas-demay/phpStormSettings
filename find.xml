@@ -26,12 +26,12 @@
     <mask>*.html.twig</mask>
     <mask>*Notification.php</mask>
     <mask>*.yml</mask>
-    <mask>*.vue</mask>
     <mask>*twig</mask>
     <mask>*yaml</mask>
     <mask>*php</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
     <mask>*type.yaml</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
