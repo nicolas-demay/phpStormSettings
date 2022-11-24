@@ -20,7 +20,6 @@
     <mask>*.module</mask>
     <mask>*.inc</mask>
     <mask>*.scss</mask>
-    <mask>*.twig</mask>
     <mask>*.md</mask>
     <mask>*.html.twig</mask>
     <mask>*Notification.php</mask>
@@ -33,5 +32,6 @@
     <mask>*type.yaml</mask>
     <mask>*.vue</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
